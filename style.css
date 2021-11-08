@@ -22,3 +22,21 @@ li h1 {
     margin-right: 200px;
 
 }
+#chocolate-pizza {
+    position: absolute;
+    left:360px ;
+    top: 100px;
+
+}
+
+#headshot {
+    position: absolute;
+    left:360px ;
+    top: 100px;
+}
+
+#list {
+    position: absolute;
+    left:22px;
+    top: 757px;
+}
