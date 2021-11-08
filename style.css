@@ -22,3 +22,84 @@ li h1 {
     margin-right: 200px;
 
 }
+#chocolate-pizza {
+    position: absolute;
+    left:360px ;
+    top: 200px;
+
+}
+
+#headshot {
+    position: absolute;
+    left:360px ;
+    top: 1390px;
+}
+
+#list {
+    position: absolute;
+    left:356px;
+    top: 1057px;
+}
+#list-text {
+    position: absolute;
+    left:356px;
+    top: 1057px;
+    width: 899px;
+    letter-spacing: 6px;
+
+}
+
+#article-title {
+    font-size: 50px;
+    font-weight: 1px;
+    font-style: 1px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: absolute;
+    left: 275px;
+    top: 125px;
+    font-weight: bolder;
+}
+#site-name{
+    font-size: 20px;
+    font-weight: 1px;
+    font-style: 1px;
+    font-family: 'Dancing Script', cursive;
+}
+#baby-logo {
+    position: absolute;
+    left: 50%;
+    top: 1500px;
+    padding-bottom: 100px;
+}
+
+#author-name {
+    position: absolute;
+    left:445px ;
+    top: 1405px;
+    font-weight: bolder;
+}
+
+#author-desc {
+    position: absolute;
+    left:445px ;
+    top: 1430px;
+    width: 700px;
+}
+#article-text {
+    position: absolute;
+    left: 360px;
+    top: 805px;
+    width: 900px;
+}
+#printer {
+    position: absolute;
+    left: 1160px;
+    top: 70px;
+}
+#printer-text {
+    position: absolute;
+    left: 1180px;
+    top: 66px;
+    font-weight: 100;
+    font-family: 'Roboto', sans-serif;
+}
